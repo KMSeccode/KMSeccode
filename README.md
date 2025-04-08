@@ -6,8 +6,8 @@
 
 ###
 
-<p align="left">Sou Kauan Miyagui Secco e sou natural de Santos - SP.<br><br>- 🔭 Atualmente sou Analista de QA;<br>- 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>- 🎮 Apaixonado por desenvolvimento de jogos e design  
-<br>- 💻 Tecnologias: C#, Unity, Java, SQL, JavaScript <br>- 📚 Estou aprendendo JavaScript e C#;<br>- ⚡ No meu tempo livro, gosto de desenvolver jogos, jogar e fazer música;</p>
+<p align="left">Sou Kauan Miyagui Secco e sou natural de Santos - SP.<br><br>- 🔭 Atualmente sou Analista de QA;<br>- 🎓 Estudante de Análise e Desenvolvimento de Sistemas; <br>- 🎮 Apaixonado por desenvolvimento de jogos e game design;  
+<br>- 💻 Tecnologias: C#, Unity, Java, SQL, JavaScript; <br>- 📚 Estou aprendendo JavaScript e C#;<br>- ⚡ No meu tempo livro, gosto de desenvolver jogos, jogar e fazer música;</p>
 
 ###
 
